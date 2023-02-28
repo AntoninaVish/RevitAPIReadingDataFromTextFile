@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITrainig\RevitAPIReadingDataFromTextFile.dll"</Assembly>
+		<AddInId>D06F08ED-C0BB-4B0E-B9EE-AAB85EA6F33C</AddInId>
+		<FullClassName>RevitAPIReadingDataFromTextFile.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Чтение данных из текстового файла для Revit</Text>
+	</AddIn>
+</RevitAddIns>
